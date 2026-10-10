@@ -13,6 +13,13 @@ A 100% local, privacy-focused Python application that allows you to chat with mu
 
 ---
 
+## 🏗️ Architecture Diagram
+
+![MultiPDF Ollama LangChain RAG Architecture](./docs/PDF-Ollama-LangChain.jpg)
+
+
+---
+
 ## 🛠️ Prerequisites & Ollama Setup
 
 1. **Install Ollama**:
