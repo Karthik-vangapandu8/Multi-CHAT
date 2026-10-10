@@ -23,7 +23,7 @@ A 100% local, privacy-focused Python application that allows you to chat with mu
    ```bash
    ollama pull qwen2.5:latest
    ollama pull nomic-embed-text
-   ```
+   ``` i have used qwen2.5:latest actually but you can use any model actually acccording to your choice
 
 ---
 
